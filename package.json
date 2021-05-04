@@ -1,0 +1,23 @@
+{
+  "name": "AWSCodeDeployPractice",
+  "version": "1.0.0",
+  "description": "AWS CodePipeline을 통한 CodeDeploy 실습용 repository",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHO-cmd/AWSCodeDeployPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CHO-cmd/AWSCodeDeployPractice/issues"
+  },
+  "homepage": "https://github.com/CHO-cmd/AWSCodeDeployPractice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
