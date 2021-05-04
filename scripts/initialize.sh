@@ -1,3 +1,1 @@
-#!/bin/bash
-mkdir test
-export water
+오설록 언제 사줄꺼예요?
