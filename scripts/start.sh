@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /home/ubuntu/AWSCodeDeployPractice
-pm2 restart app.js
+nohup npm start >/home/ubuntu/logs 2>&1 </home/ubuntu/errors &
