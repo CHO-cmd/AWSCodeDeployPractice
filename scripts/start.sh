@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /home/ubuntu/AWSCodeDeployPractice
-nohup node app.js &
+pm2 start app.js
