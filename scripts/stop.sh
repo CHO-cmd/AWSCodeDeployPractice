@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /
+cd /home/ubuntu/AWSCodeDeployPractice
 pm2 stop app.js
