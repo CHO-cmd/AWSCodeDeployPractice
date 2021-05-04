@@ -1,1 +1,4 @@
-오설록 언제 사줄꺼예요?
+#!/bin/bash
+cd /home/ubuntu
+mkdir test
+export water="matcha"
