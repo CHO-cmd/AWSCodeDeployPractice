@@ -9,3 +9,6 @@ hooks:
     # 프로젝트 디렉토리 기준으로의 경로를 적어줍니다.
     - location: scripts/initialize.sh
       runas: root
+  ApplicationStart:
+    - location: scripts/start.sh
+      runas: root
